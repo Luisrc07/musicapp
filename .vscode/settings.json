@@ -1,6 +1,0 @@
-{
-  "python.defaultInterpreterPath": "C:/Users/LuisRodriguez/Desktop/projects/pagweb/musicapp/backend/.venv/Scripts/python.exe",
-  "python.analysis.extraPaths": [
-    "${workspaceFolder}/backend"
-  ]
-}
